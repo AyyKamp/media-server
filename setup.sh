@@ -1,0 +1,1 @@
+useradd -m -p "1234" "user"
